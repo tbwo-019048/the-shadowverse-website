@@ -1,8 +1,8 @@
 # The Shadowverse
 
-A cinematic, multi-page website and content studio for Toby Crome's supernatural alternate-history series.
+> **Production:** [the-shadowverse-website.vercel.app](https://the-shadowverse-website.vercel.app/) — this is the live prod site.
 
-Production: [the-shadowverse-website.vercel.app](https://the-shadowverse-website.vercel.app/)
+A cinematic, multi-page website and content studio for Toby Crome's supernatural alternate-history series.
 
 ## Included
 
