@@ -1,0 +1,1 @@
+export function BookCover({title,kicker,accent='wine'}:{title:string;kicker:string;accent?:string}){return <div className={`book-cover compact ${accent}`} role="img" aria-label={`${title} cover`}><span className="book-kicker">{kicker}</span><strong>{title}</strong><span className="book-mark" aria-hidden="true">V</span><span className="book-author">Toby Crome</span></div>}

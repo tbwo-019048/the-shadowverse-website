@@ -1,0 +1,1 @@
+import type{Metadata}from'next';import{AdminStudio}from'@/components/admin/admin-studio';export const metadata:Metadata={title:'Content Studio',robots:{index:false,follow:false}};export default function AdminPage(){return <AdminStudio/>}
