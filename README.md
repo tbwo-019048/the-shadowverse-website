@@ -2,6 +2,8 @@
 
 A cinematic, multi-page website and content studio for Toby Crome's supernatural alternate-history series.
 
+Production: [the-shadowverse-website.vercel.app](https://the-shadowverse-website.vercel.app/)
+
 ## Included
 
 - Editorial public pages for books, characters, news, the author, lore and store
